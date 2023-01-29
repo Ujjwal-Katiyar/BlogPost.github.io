@@ -1,0 +1,10 @@
+@charset "ISO-8859-1";
+
+.primary-background {
+	background: #3e2723;
+}
+
+.primary-background-image
+{
+	 background-image: url("Profile_Image/background.jpeg");
+}
